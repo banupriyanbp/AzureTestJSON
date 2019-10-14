@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccounts_testsaday1_name": {
-            "value": "testsaday2"
+            "value": "testsaday3"
         }
     }
 }
